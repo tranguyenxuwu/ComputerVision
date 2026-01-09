@@ -8,7 +8,7 @@
 
 * **OpenCV (File 2.1.2):**
 * Sử dụng hàm `cv2.imread()`.
-* Kết quả trả về là một **mảng Numpy (numpy array)** chứa các giá trị số nguyên 8-bit (uint8).
+* Kết quả trả về là một **numpy array** chứa các giá trị số nguyên 8-bit.
 
 #### 2. Không Gian Màu 
 
