@@ -1,2 +1,9 @@
 .DS_Store
 __pycache__
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.doc
+*.docx
+*.pdf
